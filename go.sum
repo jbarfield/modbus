@@ -1,2 +1,2 @@
-github.com/grid-x/serial v0.0.0-20191104121038-e24bc9bf6f08 h1:syBxnRYnSPUDdkdo5U4sy2roxBPQDjNiw4od7xlsABQ=
-github.com/grid-x/serial v0.0.0-20191104121038-e24bc9bf6f08/go.mod h1:kdOd86/VGFWRrtkNwf1MPk0u1gIjc4Y7R2j7nhwc7Rk=
+github.com/jbarfield/serial v0.0.0-20210928162504-c169181ba055 h1:QHlh1fW9p2JflGm1QRxg84OiNERK+U7INg6pSpmeAaw=
+github.com/jbarfield/serial v0.0.0-20210928162504-c169181ba055/go.mod h1:cDB6bUa8p4RRYJBebyeqSZ61RyOHkponL76eRT7VDak=
